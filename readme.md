@@ -1,4 +1,5 @@
-Bubble sort is a simple sorting algorithm that repeatedly compares adjacent elements and swaps them when they are in the wrong order. It continues making passes through the list until all elements are arranged from smallest to largest.
+# Bubble sort
+ is a simple sorting algorithm that repeatedly compares adjacent elements and swaps them when they are in the wrong order. It continues making passes through the list until all elements are arranged from smallest to largest.
 
 ![Bubble sort illustration](./images/bubblesort.png)
  
@@ -7,3 +8,6 @@ Bubble sort is a simple sorting algorithm that repeatedly compares adjacent elem
 
 ![Bubble sort illustration](./images/q1.png)
 
+Question 2 is solved
+# Find the second Largest and Second smallest number
+![Bubble sort illustration](./images/q2.png)
