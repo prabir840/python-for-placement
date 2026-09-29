@@ -11,3 +11,9 @@
 Question 2 is solved
 # Find the second Largest and Second smallest number
 ![Bubble sort illustration](./images/q2.png)
+
+## Lists / Arrays SOLVED
+
+1. **Find the sum of all numbers in a list** without using `sum()`.
+2. **Find the largest element in a list** without using `max()`.
+3. **Find the smallest element in a list** without using `min()`.
