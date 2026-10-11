@@ -7,6 +7,5 @@ evenCount=0
 for i in range (len(arr)):
   if (arr[i]%2==0):
     evenCount=evenCount+1
-  else:
-    oddCount=oddCount+1
-print("Odd count is ", oddCount, "\neven count is ", evenCount)
+ 
+print("Odd count is ", len(arr)-evenCount, "\neven count is ", evenCount)
