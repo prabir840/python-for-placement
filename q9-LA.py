@@ -1,15 +1,10 @@
-# 10. Perform a **linear search** and return the index of a target value; return `-1` when it is absent.
+# 9. Given numbers from `1` to `n` with one number missing, **find the missing number**.
 
-numbers = [10, 25, 40, 55, 70]
+numbers = [1,2,3,4,5,7,8,9,10]
 
-targetValue = int(input("enter your target value"))
-ret = 0
+MissingNumber = 0
 
 for i in range (len(numbers)):
-    if(targetValue == numbers[i]):
-        ret = 1
-        
-if(ret == 1):
-    print("the index of a target value", targetValue,"is ", i)
-else:
-    print("-1")
+    if i not in numbers:
+        MissingNumber=i
+print(MissingNumber)
