@@ -2,7 +2,7 @@
 
 numbers = [10, 25, 40, 55, 70]
 
-targetValue = int(input("enter your target value"))
+targetValue = int(input("\033[35mEnter your target value-->\t"))
 ret = 0
 
 for i in range (len(numbers)):
